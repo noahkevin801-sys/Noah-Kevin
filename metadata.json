@@ -1,0 +1,6 @@
+{
+  "name": "Aura Stage",
+  "description": "Simulation de gestion de carrière musicale sur mobile avec animation Liquid Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
